@@ -8,7 +8,7 @@ These days I build AI systems that run in the real world with [WIGTN](https://gi
 
 ### Things I built
 
-- **[wigvo](https://github.com/wigtn/wigvo)** · Real-time Korean–English interpretation over ordinary phone calls. The other side needs no app. [Accepted to ACL 2026 System Demonstrations](https://openreview.net/forum?id=9oUknRxASv) · 555ms median latency · 0 echo loops in 147 calls
+- **[wigvo](https://github.com/wigtn/wigvo)** · Real-time Korean-English interpretation over ordinary phone calls. The other side needs no app. [Accepted to ACL 2026 System Demonstrations](https://openreview.net/forum?id=9oUknRxASv) · 555ms median latency · 0 echo loops in 147 calls
 - **[wigtn-plugins](https://github.com/wigtn/wigtn-plugins)** · Claude Code plugins that standardize our team's development workflow
 - **[portfolio](https://github.com/moriroKim/portfolio)** · A [case-study portfolio](https://portfolio-six-psi-ae0mjybkx1.vercel.app/en) that records problem definitions, rejected alternatives, and missteps
 
