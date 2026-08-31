@@ -22,14 +22,14 @@
 <div align="center">
 <a href="https://github.com/wigtn/wigvo">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=wigtn\&repo=wigvo\&hide_border=true\&theme=github_dark\&bg_color=00000000">
-    <img alt="wigvo" src="https://github-readme-stats.vercel.app/api/pin/?username=wigtn\&repo=wigvo\&hide_border=true\&bg_color=00000000" width="49%">
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=wigtn&repo=wigvo&hide_border=true&theme=github_dark&bg_color=00000000">
+    <img alt="wigvo" src="https://github-readme-stats.vercel.app/api/pin/?username=wigtn&repo=wigvo&hide_border=true&bg_color=00000000" width="49%">
   </picture>
 </a>
 <a href="https://portfolio-six-psi-ae0mjybkx1.vercel.app/ko">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=moriroKim\&repo=portfolio\&hide_border=true\&theme=github_dark\&bg_color=00000000">
-    <img alt="portfolio" src="https://github-readme-stats.vercel.app/api/pin/?username=moriroKim\&repo=portfolio\&hide_border=true\&bg_color=00000000" width="49%">
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=moriroKim&repo=portfolio&hide_border=true&theme=github_dark&bg_color=00000000">
+    <img alt="portfolio" src="https://github-readme-stats.vercel.app/api/pin/?username=moriroKim&repo=portfolio&hide_border=true&bg_color=00000000" width="49%">
   </picture>
 </a>
 </div>
@@ -46,12 +46,12 @@
 
 <div align="center">
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=moriroKim\&show_icons=true\&hide_border=true\&theme=github_dark\&bg_color=00000000&locale=kr">
-  <img alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=moriroKim\&show_icons=true\&hide_border=true\&bg_color=00000000&locale=kr" width="49%">
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=moriroKim&show_icons=true&hide_border=true&theme=github_dark&bg_color=00000000&locale=kr">
+  <img alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=moriroKim&show_icons=true&hide_border=true&bg_color=00000000&locale=kr" width="49%">
 </picture>
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=moriroKim\&layout=compact\&hide_border=true\&theme=github_dark\&bg_color=00000000\&langs_count=6&locale=kr">
-  <img alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=moriroKim\&layout=compact\&hide_border=true\&bg_color=00000000\&langs_count=6&locale=kr" width="41%">
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=moriroKim&layout=compact&hide_border=true&theme=github_dark&bg_color=00000000&langs_count=6&locale=kr">
+  <img alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=moriroKim&layout=compact&hide_border=true&bg_color=00000000&langs_count=6&locale=kr" width="41%">
 </picture>
 </div>
 
