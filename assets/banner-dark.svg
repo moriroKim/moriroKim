@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 880 190" fill="none" role="img" aria-label="Jinmo Kim, full-stack engineer">
+  <defs>
+    <linearGradient id="g" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#a78bfa">
+        <animate attributeName="stop-color" values="#a78bfa;#22d3ee;#a78bfa" dur="6s" repeatCount="indefinite"/>
+      </stop>
+      <stop offset="100%" stop-color="#22d3ee">
+        <animate attributeName="stop-color" values="#22d3ee;#a78bfa;#22d3ee" dur="6s" repeatCount="indefinite"/>
+      </stop>
+    </linearGradient>
+  </defs>
+  <g opacity="0.5">
+    <circle cx="70" cy="46" r="3.5" fill="#a78bfa" opacity="0.7">
+      <animate attributeName="cy" values="46;30;46" dur="7s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="812" cy="132" r="5" fill="#22d3ee" opacity="0.55">
+      <animate attributeName="cy" values="132;150;132" dur="9s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="760" cy="42" r="2.5" fill="#a78bfa" opacity="0.8">
+      <animate attributeName="cy" values="42;58;42" dur="5.5s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="120" cy="150" r="3" fill="#22d3ee" opacity="0.6">
+      <animate attributeName="cy" values="150;134;150" dur="8s" repeatCount="indefinite"/>
+    </circle>
+  </g>
+  <text x="440" y="88" text-anchor="middle" font-family="Segoe UI, Pretendard, Helvetica, Arial, sans-serif" font-size="52" font-weight="800" letter-spacing="1" fill="url(#g)">JINMO KIM</text>
+  <text x="440" y="124" text-anchor="middle" font-family="SFMono-Regular, Consolas, Menlo, monospace" font-size="15" letter-spacing="2" fill="#8b949e">Frontend · Backend · Infra · AI Systems</text>
+  <g font-family="SFMono-Regular, Consolas, Menlo, monospace" font-size="12" fill="#8b949e" opacity="0.85">
+    <text x="440" y="156" text-anchor="middle">one product, built end to end</text>
+  </g>
+  <rect x="330" y="138" width="220" height="1.5" fill="url(#g)" opacity="0.6" rx="0.75">
+    <animate attributeName="x" values="330;340;330" dur="6s" repeatCount="indefinite"/>
+    <animate attributeName="width" values="220;200;220" dur="6s" repeatCount="indefinite"/>
+  </rect>
+</svg>
