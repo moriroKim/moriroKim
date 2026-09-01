@@ -24,7 +24,7 @@
 [![Stars](https://img.shields.io/github/stars/wigtn/wigvo?style=for-the-badge&logo=github&color=8B5CF6)](https://github.com/wigtn/wigvo)
 [![License](https://img.shields.io/github/license/wigtn/wigvo?style=for-the-badge&color=0F172A)](https://github.com/wigtn/wigvo/blob/main/LICENSE)
 
-Real-time Korean-English interpretation over ordinary phone calls · no app needed on the far side · 555ms median latency · 0 echo loops in 147 calls
+Real-time two-way interpretation over ordinary phone calls · no app needed on the far side · 555ms median latency · 0 echo loops in 147 calls
 
 ### [portfolio](https://github.com/moriroKim/portfolio)
 

@@ -24,7 +24,7 @@
 [![Stars](https://img.shields.io/github/stars/wigtn/wigvo?style=for-the-badge&logo=github&color=8B5CF6)](https://github.com/wigtn/wigvo)
 [![License](https://img.shields.io/github/license/wigtn/wigvo?style=for-the-badge&color=0F172A)](https://github.com/wigtn/wigvo/blob/main/LICENSE)
 
-一般電話の日韓英リアルタイム通訳 · 相手側にアプリ不要 · 中央値遅延 555ms · 147通話中エコーループ 0件
+一般電話の双方向リアルタイム通訳 · 相手側にアプリ不要 · 中央値遅延 555ms · 147通話中エコーループ 0件
 
 ### [portfolio](https://github.com/moriroKim/portfolio)
 

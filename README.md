@@ -24,7 +24,7 @@
 [![Stars](https://img.shields.io/github/stars/wigtn/wigvo?style=for-the-badge&logo=github&color=8B5CF6)](https://github.com/wigtn/wigvo)
 [![License](https://img.shields.io/github/license/wigtn/wigvo?style=for-the-badge&color=0F172A)](https://github.com/wigtn/wigvo/blob/main/LICENSE)
 
-일반 전화 통화의 한영 실시간 통역 · 받는 쪽은 앱 불필요 · 중간 지연 555ms · 147통 중 에코 루프 0건
+일반 전화 통화의 양방향 실시간 통역 · 받는 쪽은 앱 불필요 · 중간 지연 555ms · 147통 중 에코 루프 0건
 
 ### [portfolio](https://github.com/moriroKim/portfolio)
 
