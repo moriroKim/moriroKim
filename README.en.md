@@ -15,7 +15,6 @@
 - Building AI systems that run in the real world with **[WIGTN](https://github.com/wigtn)**, a five-person AI dev and research crew
 - Co-author of **[WIGVO](https://github.com/wigtn/wigvo)**, real-time interpretation over ordinary phone calls, accepted to **[ACL 2026 System Demonstrations](https://openreview.net/forum?id=9oUknRxASv)** · 555ms median latency, 0 echo loops in 147 calls
 - Runner-up, **Snowflake AI & Data Hackathon Korea 2026**
-- Working rules: never show what might be wrong; never let automation touch what cannot be undone
 
 ## Featured
 

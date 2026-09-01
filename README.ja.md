@@ -15,7 +15,6 @@
 - 5人のAI開発・研究クルー **[WIGTN](https://github.com/wigtn)** で、実環境で動くAIシステムを作っています
 - 一般の電話をリアルタイム通訳する **[WIGVO](https://github.com/wigtn/wigvo)** で **[ACL 2026 System Demonstrations](https://openreview.net/forum?id=9oUknRxASv)** に共著者として参加 · 中央値遅延 555ms、147通話中エコーループ 0件
 - **Snowflake AI & Data Hackathon Korea 2026 準優勝**
-- 仕事の基準: 間違えるくらいなら見せない。取り消せないものには自動化で触れない
 
 ## 代表作
 

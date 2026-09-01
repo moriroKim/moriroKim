@@ -15,7 +15,6 @@
 - 5인 AI 개발·연구 크루 **[WIGTN](https://github.com/wigtn)** 에서 실제 환경에서 도는 AI 시스템을 만듭니다
 - 일반 전화 통화를 실시간 통역하는 **[WIGVO](https://github.com/wigtn/wigvo)** 로 **[ACL 2026 System Demonstrations](https://openreview.net/forum?id=9oUknRxASv)** 에 공저자로 참여했습니다 · 중간 지연 555ms, 147통 중 에코 루프 0건
 - **Snowflake AI & Data Hackathon Korea 2026 준우승**
-- 일하는 기준: 틀릴 바에는 보여주지 않는다. 되돌릴 수 없는 것은 자동화로 건드리지 않는다
 
 ## 대표 작업
 
