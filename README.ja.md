@@ -18,23 +18,20 @@
 
 ## 代表作
 
-<div align="center">
-<a href="https://github.com/wigtn/wigvo">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=wigtn&repo=wigvo&hide_border=true&theme=github_dark&bg_color=00000000">
-    <img alt="wigvo" src="https://github-readme-stats.vercel.app/api/pin/?username=wigtn&repo=wigvo&hide_border=true&bg_color=00000000" width="49%">
-  </picture>
-</a>
-<a href="https://portfolio-six-psi-ae0mjybkx1.vercel.app/ja">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=moriroKim&repo=portfolio&hide_border=true&theme=github_dark&bg_color=00000000">
-    <img alt="portfolio" src="https://github-readme-stats.vercel.app/api/pin/?username=moriroKim&repo=portfolio&hide_border=true&bg_color=00000000" width="49%">
-  </picture>
-</a>
-</div>
+### [wigvo](https://github.com/wigtn/wigvo)
 
-> [ポートフォリオ](https://portfolio-six-psi-ae0mjybkx1.vercel.app/ja) · 問題定義 → 検討した代替案 → 試行錯誤まで記録したケーススタディ
+[![ACL 2026](https://img.shields.io/badge/ACL_2026-System_Demonstrations-DC2626?style=for-the-badge)](https://openreview.net/forum?id=9oUknRxASv)
+[![Stars](https://img.shields.io/github/stars/wigtn/wigvo?style=for-the-badge&logo=github&color=8B5CF6)](https://github.com/wigtn/wigvo)
+[![License](https://img.shields.io/github/license/wigtn/wigvo?style=for-the-badge&color=0F172A)](https://github.com/wigtn/wigvo/blob/main/LICENSE)
 
+一般電話の日韓英リアルタイム通訳 · 相手側にアプリ不要 · 中央値遅延 555ms · 147通話中エコーループ 0件
+
+### [portfolio](https://github.com/moriroKim/portfolio)
+
+[![Live](https://img.shields.io/badge/Live-ja-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-six-psi-ae0mjybkx1.vercel.app/ja)
+[![Next.js](https://img.shields.io/badge/Next.js_16-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)](https://github.com/moriroKim/portfolio)
+
+問題定義 → 検討した代替案 → 試行錯誤まで記録したケーススタディ
 ## スタック
 
 <div align="center">
@@ -45,15 +42,10 @@
 
 <div align="center">
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=moriroKim&show_icons=true&hide_border=true&theme=github_dark&bg_color=00000000&locale=ja">
-  <img alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=moriroKim&show_icons=true&hide_border=true&bg_color=00000000&locale=ja" width="49%">
-</picture>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=moriroKim&layout=compact&hide_border=true&theme=github_dark&bg_color=00000000&langs_count=6&locale=ja">
-  <img alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=moriroKim&layout=compact&hide_border=true&bg_color=00000000&langs_count=6&locale=ja" width="41%">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/moriroKim/moriroKim/output/github-snake-dark.svg">
+  <img alt="contribution snake" src="https://raw.githubusercontent.com/moriroKim/moriroKim/output/github-snake.svg" width="100%">
 </picture>
 </div>
-
 ## リンク
 
 <div align="center">
